@@ -1,16 +1,15 @@
 ## Hi there 👋
+Aqui estão algumas ideias para você começar:
 
-<!--
-**brenoh15/brenoh15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando em aprender
+- 🌱 Atualmente estou aprendendo os bagulho que o prefessor pede
+- 👯 Procuro colaborar em alguma coisa
+- 🤔 Estou procurando ajuda com nada
+- 💬 Pergunte-me sobre jogos e a neco arc
+- 📫 Como entrar em contato comigo: pelo bagulho la
+- 😄 Pronomes: ele dele
+- ⚡ Curiosidade: gosto da neco arc
+- [neco arc](https://youtu.be/9FmmnQZ0bfo?si=yz2UDJmuilXd09ho)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+ ![](https://media1.tenor.com/m/P-xLQqc4ud4AAAAd/evil-neco.gif)
