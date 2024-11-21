@@ -8,7 +8,7 @@ Aqui estão algumas ideias para você começar:
 - 💬 Pergunte-me sobre jogos e a neco arc
 - 📫 Como entrar em contato comigo: pelo bagulho la
 - 😄 Pronomes: ele dele
-- ⚡ Curiosidade: gosto da neco arc
+- ⚡ Curiosidade: gosto da neco arc🛌🏼
 - [neco arc](https://youtu.be/9FmmnQZ0bfo?si=yz2UDJmuilXd09ho)
 
   
